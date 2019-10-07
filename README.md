@@ -2,6 +2,36 @@
 
 Get device information of android using a tiny and small .java file.
 
+## Information
+
+- OS version
+- API Level
+- Device
+- Model
+- Product
+- VERSION.RELEASE
+- VERSION.INCREMENTAL
+- VERSION.SDK.NUMBER
+- BOARD
+- BOOTLOADER
+- BRAND
+- CPU_ABI
+- CPU_ABI2
+- DISPLAY
+- FINGERPRINT
+- HARDWARE
+- HOST
+- ID
+- MANUFACTURER
+- MODEL
+- PRODUCT
+- SERIAL
+- TAGS
+- TIME
+- TYPE
+- UNKNOWN
+- USER
+
 ---------
 
 # Max Base
