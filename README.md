@@ -31,6 +31,10 @@ Get device information of android using a tiny and small .java file.
 - TYPE
 - UNKNOWN
 - USER
+- ScreenWidth
+- ScreenHeight
+- Density
+- DensityDpi
 
 ---------
 
