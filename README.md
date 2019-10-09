@@ -2,7 +2,7 @@
 
 Get device information of android using a tiny and small **.java** file.
 
-## Information
+## Device Information
 
 - OS version
 - API Level
